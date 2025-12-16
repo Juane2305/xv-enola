@@ -144,7 +144,7 @@ const Invitacion = () => {
             />
           </div>
 
-          <InstagramWall user="@gie.oficial"/>
+          <InstagramWall user="@gie.oficicial"/>
 
           <div className="relative bg-white py-10">
             <DressCodeEsmeralda dressCode="Formal" icon={dress}/>
